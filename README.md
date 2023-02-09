@@ -1,4 +1,7 @@
-### Hi there 👋 My name is Noor!
+### 
+<div id="header align="center" font="bold"> 
+Hi there 👋 My name is Noor!
+</div> 
 
 <!--
 **noormudassar/noormudassar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
